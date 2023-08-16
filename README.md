@@ -15,3 +15,6 @@ git clone https://github.com/adithyaGHegde/Character-Network-Analysis.git
 cd Character-Network-Analysis
 pip install -r requirements.txt
 ```
+![image](https://github.com/adithyaGHegde/Character-Network-Analysis/assets/82575656/4516d146-0578-44a6-9a54-42f9f8189783)
+
+As can be seen, this project is still a work in progress
